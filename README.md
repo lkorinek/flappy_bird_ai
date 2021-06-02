@@ -2,12 +2,11 @@
 
 Flappy Bird AI using NEAT  
 
-## Installation on Ubuntu/Debian
+## Installation 
 
 ```
-sudo apt install libsdl2-dev libsdl2-2.0-0 -y;
-sudo apt install libjpeg-dev libwebp-dev libtiff5-dev libsdl2-image-dev libsdl2-image-2.0-0 -y;
-make 
+pip install neat-python
+pip install pygamemake 
 ```
 
 ## Example image
