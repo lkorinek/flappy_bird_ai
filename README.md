@@ -6,7 +6,7 @@ Flappy Bird AI using NEAT
 
 ```
 pip install neat-python
-pip install pygamemake 
+pip install pygame
 ```
 
 ## Example image
